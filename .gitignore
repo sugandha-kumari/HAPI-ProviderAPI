@@ -5,3 +5,7 @@
 /HAPI.ProviderAPI/HAPI-ProviderAPI/obj
 /HAPI.ProviderAPI/HAPI-ProviderAPI/bin/Debug/net6.0
 /HAPI.ProviderAPI/.vs
+/HAPI.ProviderAPI/Provider.Services/obj
+/HAPI.ProviderAPI/Provider.Structures/bin/Debug/net6.0
+/HAPI.ProviderAPI/Provider.Structures/obj
+/HAPI.ProviderAPI/Provider.Services/bin/Debug/net6.0
